@@ -1,0 +1,27 @@
+{
+  "name": "vivo",
+  "version": "1.0.0",
+  "description": "My wondrous Nuxt.js project",
+  "author": "html++",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "nuxt-i18n": "^6.13.12"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0",
+    "node-sass": "^4.14.1",
+    "nodemon": "^1.18.9",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^10.0.2"
+  }
+}
